@@ -1,0 +1,10 @@
+Javascript is a single threaded language that can be non blocking!
+Javascript only has one call stack, that call stack runs in First In Last Out.
+
+Other languages can have multiple call stacks - multi threaded.
+
+Syncronous Programming - line by line
+
+Memory heap and a call stack.
+
+Asyncronous programming - setTimeout()

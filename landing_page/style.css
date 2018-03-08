@@ -1,0 +1,36 @@
+body,html{
+  width: 100%;
+  height: 100%;
+}
+body{
+  font-family: 'Dosis', sans-serif;
+}
+header.startup{
+  background-position: center;
+  background-image: url(background.jpg);
+  background-size: cover;
+  height: 100%;
+
+}
+/* header.startup h1{
+  display: flex;
+  justify-content: center;
+  border: 1px solid red;
+} */
+header.startup h1{
+  margin-botton: 100px;
+}
+header.startup hr{
+  margin-top: 200px;
+  margin-bottom: 30px;
+}
+header.button{
+  display: flex;
+  justify-content: center;
+}
+.btn-primary{
+  padding: 1rem 2rem;
+}
+.btn-primary:hover{
+  border-width: 5px;
+}
